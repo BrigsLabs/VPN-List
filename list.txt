@@ -102,3 +102,9 @@ xvpn.io
 young-purple.ga
 yxca6625zeyff.com
 zcoup.com
+
+# Add Some Extra Host #
+whiskergalaxy.com
+steganos.com
+steganos.net
+okayfreedom.com
